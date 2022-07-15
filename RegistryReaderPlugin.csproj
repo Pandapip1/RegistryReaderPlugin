@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>RegistryReaderPlugin</RootNamespace>
+    <AssemblyName>RegistryReaderPlugin</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.Win32.Registry">
+      <HintPath>Microsoft.Win32.Registry.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

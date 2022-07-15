@@ -1,0 +1,12 @@
+C:\Users\gavin\source\repos\RegistryReaderPlugin\RegistryReaderPlugin\bin\Release\net5.0\RegistryReaderPlugin.deps.json
+C:\Users\gavin\source\repos\RegistryReaderPlugin\RegistryReaderPlugin\bin\Release\net5.0\RegistryReaderPlugin.dll
+C:\Users\gavin\source\repos\RegistryReaderPlugin\RegistryReaderPlugin\bin\Release\net5.0\ref\RegistryReaderPlugin.dll
+C:\Users\gavin\source\repos\RegistryReaderPlugin\RegistryReaderPlugin\bin\Release\net5.0\RegistryReaderPlugin.pdb
+C:\Users\gavin\source\repos\RegistryReaderPlugin\RegistryReaderPlugin\obj\Release\net5.0\RegistryReaderPlugin.csproj.AssemblyReference.cache
+C:\Users\gavin\source\repos\RegistryReaderPlugin\RegistryReaderPlugin\obj\Release\net5.0\RegistryReaderPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\source\repos\RegistryReaderPlugin\RegistryReaderPlugin\obj\Release\net5.0\RegistryReaderPlugin.AssemblyInfoInputs.cache
+C:\Users\gavin\source\repos\RegistryReaderPlugin\RegistryReaderPlugin\obj\Release\net5.0\RegistryReaderPlugin.AssemblyInfo.cs
+C:\Users\gavin\source\repos\RegistryReaderPlugin\RegistryReaderPlugin\obj\Release\net5.0\RegistryReaderPlugin.csproj.CoreCompileInputs.cache
+C:\Users\gavin\source\repos\RegistryReaderPlugin\RegistryReaderPlugin\obj\Release\net5.0\RegistryReaderPlugin.dll
+C:\Users\gavin\source\repos\RegistryReaderPlugin\RegistryReaderPlugin\obj\Release\net5.0\ref\RegistryReaderPlugin.dll
+C:\Users\gavin\source\repos\RegistryReaderPlugin\RegistryReaderPlugin\obj\Release\net5.0\RegistryReaderPlugin.pdb
